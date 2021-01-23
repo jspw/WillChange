@@ -8,7 +8,7 @@ import Menu from '@material-ui/core/Menu';
 import AccountCircle from '@material-ui/icons/AccountCircle';
 import NotificationsIcon from '@material-ui/icons/Notifications';
 
-let isSignedIn = true;
+let isSignedIn = false;
 let navElements;
 
 const Navigation = () => {
